@@ -3,7 +3,7 @@
 
 Інтерактивний веб-додаток для аналізу статистики дорожньо-транспортних пригод (ДТП) в Україні. Проєкт візуалізує дані про аварійність, камери автофіксації та кількість транспортних засобів у розрізі регіонів за період з 2017 по 2025 рік.
 
-[![Streamlit App](https://ua-traffic-actions-analytics.streamlit.app)]
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ua-traffic-actions-analytics.streamlit.app)
 
 ![App Screenshot](_screenshot.png)
 
